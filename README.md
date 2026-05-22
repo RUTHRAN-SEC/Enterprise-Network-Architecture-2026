@@ -1,6 +1,6 @@
-# Enterprise-Network-Architecture-2026
+# Enterprise Network Architecture 2026
 
-A fully implemented enterprise-grade network simulation designed and built entirely in Cisco Packet Tracer. This project models a realistic 2026 enterprise network incorporating Zero Trust architecture, layered defense strategy, VLAN-based segmentation, redundant core infrastructure, DMZ isolation, and centralized security monitoring.
+A fully implemented enterprise network simulation designed and built entirely in Cisco Packet Tracer. This project models a realistic 2026 enterprise network incorporating Zero Trust architecture, layered defense strategy, VLAN-based segmentation, redundant core infrastructure, DMZ isolation, and centralized security monitoring.
 
 ---
 
@@ -12,7 +12,6 @@ A fully implemented enterprise-grade network simulation designed and built entir
 - Security Controls
 - Technologies Used
 - Repository Structure
-- What to Add to This Repository
 - How to Open the Project
 - Validation Tests
 - Author
@@ -21,9 +20,9 @@ A fully implemented enterprise-grade network simulation designed and built entir
 
 ## Project Overview
 
-This project simulates a complete modern enterprise network as it would be deployed in a real-world corporate environment. Every component was designed, configured, and validated individually using Cisco Packet Tracer.
+This project simulates a complete modern enterprise network as it would be deployed in a real world corporate environment. Every component was designed, configured, and validated individually using Cisco Packet Tracer.
 
-The goal was to build an enterprise network that reflects the security principles used in banking, healthcare, government, and technology sectors — combining network engineering with cybersecurity best practices into a single cohesive lab.
+The goal was to build an enterprise network that reflects the security principles used in banking, healthcare, government, and technology sectors - combining network engineering with cybersecurity best practices into a single cohesive lab.
 
 This was a solo project. Every design decision, configuration, and security control was planned and implemented independently, including:
 
@@ -38,6 +37,8 @@ This was a solo project. Every design decision, configuration, and security cont
 - AAA authentication and SSH hardening across all infrastructure
 
 ###  Fully Guide for the Project
+**This comprehensive enterprise network implementation guide was developed with the assistance of Claude AI to improve workflow efficiency, accelerate documentation, and support modern enterprise cybersecurity architecture design.**
+
 https://github.com/RUTHRAN-SEC/Enterprise-Network-Architecture-2026/blob/main/Enterprise_Network_Lab_Guide.pdf
 
 ---
@@ -148,7 +149,7 @@ Enterprise-Network-Architecture-2026/
 |-- packet-tracer/
 |   |-- Enterprise-Network-2026.pkt          # Main Packet Tracer project file (ADD HERE)
 |
-|-- Enterprise_Network_Lab_Guide.pdf
+|-- Enterprise_Network_Lab_Guide.pdf         # Full guide to build the network form scratch 
 |
 |-- diagrams/
 |   |-- network-topology.png                 # Full network topology diagram
@@ -185,31 +186,9 @@ Enterprise-Network-Architecture-2026/
 
 ---
 
-## What to Add to This Repository
-
-The following items should be added to complete the repository properly.
-
-### Required
-
-- **Packet Tracer File** — Place your `.pkt` file inside the `packet-tracer/` folder. This is the core deliverable of the project.
-- **Network Topology Diagram** — Export or screenshot your full topology from Packet Tracer and add it to `diagrams/`. This is the first thing a viewer looks at.
-
-### Strongly Recommended
-
-- **Device Configurations** — Use `show running-config` on each device in Packet Tracer and save the output as `.txt` files in `configs/`. This demonstrates your actual CLI work.
-- **Validation Screenshots** — Capture ping tests, ACL deny results, DHCP leases, and HSRP failover inside Packet Tracer. These prove the network functions as designed.
-- **ACL Policy Document** — Write out each ACL rule with the reasoning behind it. This shows security design thinking.
-
-### Optional but Professional
-
-- **Additional Diagrams** — Separate diagrams for the DMZ, firewall zones, and VLAN segmentation make the repository easier to understand at a glance.
-- **Attack Defense Table** — A markdown table mapping each attack vector to the specific control implemented in this project.
-
----
-
 ## How to Open the Project
 
-1. Download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (version 8.x or later recommended).
+1. Download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (version 8 or later recommended).
 2. Clone or download this repository.
 3. Open the file located at `packet-tracer/Enterprise-Network-2026.pkt` using Packet Tracer.
 4. The full topology will load with all configurations intact.
