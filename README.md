@@ -38,7 +38,7 @@ This was a solo project. Every design decision, configuration, and security cont
 - AAA authentication and SSH hardening across all infrastructure
 
 ###  Fully Guide for the Project
-
+https://github.com/RUTHRAN-SEC/Enterprise-Network-Architecture-2026/blob/main/Enterprise_Network_Lab_Guide.pdf
 
 ---
 
