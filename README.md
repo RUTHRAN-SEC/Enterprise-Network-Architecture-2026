@@ -148,6 +148,8 @@ Enterprise-Network-Architecture-2026/
 |-- packet-tracer/
 |   |-- Enterprise-Network-2026.pkt          # Main Packet Tracer project file (ADD HERE)
 |
+|-- Enterprise_Network_Lab_Guide.pdf
+|
 |-- diagrams/
 |   |-- network-topology.png                 # Full network topology diagram
 |   |-- vlan-design.png                      # VLAN segmentation diagram
