@@ -147,7 +147,7 @@ https://github.com/RUTHRAN-SEC/Enterprise-Network-Architecture-2026/blob/main/En
 Enterprise-Network-Architecture-2026/
 |
 |-- packet-tracer/
-|   |-- Enterprise-Network-2026.pkt          # Main Packet Tracer project file (ADD HERE)
+|   |-- Enterprise-Network-2026.pkt          # Main Packet Tracer project file
 |
 |-- Enterprise_Network_Lab_Guide.pdf         # Full guide to build the network form scratch 
 |
