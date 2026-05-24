@@ -158,13 +158,13 @@ Enterprise-Network-Architecture-2026/
 |   |-- firewall-zones.png                   # ASA firewall zone diagram
 |
 |-- configs/
-|   |-- CORE1-config.txt                     # Running configuration for CORE1
-|   |-- CORE2-config.txt                     # Running configuration for CORE2
-|   |-- ACC1-config.txt                      # Running configuration for ACC1
-|   |-- ACC2-config.txt                      # Running configuration for ACC2
-|   |-- ACC3-config.txt                      # Running configuration for ACC3
-|   |-- ASA-Firewall-config.txt              # ASA firewall configuration
-|   |-- ISP-Router-config.txt                # ISP Router configuration
+|   |-- CORE1-config.txt                     # configuration Command for CORE1
+|   |-- CORE2-config.txt                     # configuration Command for CORE2
+|   |-- ACC1-config.txt                      # configuration Command for ACC1
+|   |-- ACC2-config.txt                      # configuration Command for ACC2
+|   |-- ACC3-config.txt                      # configuration Command for ACC3
+|   |-- ASA-Firewall-config.txt              # configuration Command ASA firewall 
+|   |-- ISP-Router-config.txt                # configuration Command ISP Router 
 |
 |-- documentation/
 |   |-- Enterprise-Network-Documentation.md  # Full project documentation
@@ -174,12 +174,12 @@ Enterprise-Network-Architecture-2026/
 |   |-- nat-design.md                        # NAT/PAT design documentation
 |
 |-- screenshots/
-|   |-- vlan-connectivity-test.png           # Ping test results between VLANs
-|   |-- acl-deny-test.png                    # ACL block verification
-|   |-- hsrp-failover-test.png               # HSRP failover demonstration
-|   |-- dhcp-test.png                        # DHCP lease verification
-|   |-- ssh-management-test.png              # SSH access verification
-|   |-- guest-isolation-test.png             # Guest VLAN Internet-only test
+|   |-- vlan-connectivity-test.md           # Ping test results between VLANs
+|   |-- acl-deny-test.md                    # ACL block verification
+|   |-- hsrp-failover-test.md               # HSRP failover demonstration
+|   |-- dhcp-test.md                        # DHCP lease verification
+|   |-- ssh-management-test.md              # SSH access verification
+|   |-- guest-isolation-test.md             # Guest VLAN Internet only test
 |
 |-- README.md
 ```
