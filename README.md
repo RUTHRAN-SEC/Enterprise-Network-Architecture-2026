@@ -151,6 +151,8 @@ Enterprise-Network-Architecture-2026/
 |
 |-- Enterprise_Network_Lab_Guide.pdf         # Full guide to build the network form scratch 
 |
+|-- Cable Connection Reference.md            # Cable Connection Reference for Connecting
+|
 |-- diagrams/
 |   |-- network-topology.png                 # Full network topology diagram
 |   |-- vlan-design.png                      # VLAN segmentation diagram
